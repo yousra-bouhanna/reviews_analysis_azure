@@ -1,0 +1,12 @@
+{
+    "bindings": [
+      {
+        "name": "myblob",
+        "type": "blobTrigger",
+        "direction": "in",
+        "path": "amazon-reviews/{name}",
+        "connection": "AzureWebJobsStorage"
+      }
+    ]
+  }
+  

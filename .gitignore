@@ -1,0 +1,19 @@
+# Ignorer le fichier keys.txt
+keys.txt
+
+# Ignorer les fichiers CSV
+test.csv
+data_with_labels.csv
+data_without_labels.csv
+
+# Ignorer le fichier Python initial.py
+initial.py
+
+# Ignorer le fichier Power BI
+visualisations.pbix
+
+# Ignorer le dossier 'capture ecran'
+capture ecran/
+
+# Ignorer le fichier text_analysis.py
+text_analysis.py
